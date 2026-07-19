@@ -6,7 +6,7 @@ Welcome to the main repository for LisaDesktop. This project focuses on building
 
 ## Core Features
 * **Lumpy Package Manager:** A custom management system built to handle applications via alias apt configurations.
-* **on-Immutable Infrastructure:** The main edition uses an unchangeable root filesystem to prevent system breakage and ensure stability.
+* **non-Immutable Infrastructure:** The main edition uses an unchangeable root filesystem to prevent system breakage and ensure stability.
 * **Desktop Diversity:** Multiple official desktop editions are available to suit specific performance preferences and user choices.
 * **Flatpak:** Flatpak is our choice users love flatpak becuase its fast if users want to install their apps and own choices.
 
