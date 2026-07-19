@@ -28,7 +28,6 @@ Main download page: [SourceForge](https://sourceforge.net/projects/lisadesktop)
 * **LisaDesktop COSMIC Edition:** A standard, cosmic customized for begineers and advanced users users only.
 * * **LisaDesktop JWM Edition:** A standard, jwm customized for begineers and advanced users users only.
 **LisaDesktop Pixel Edition:** A standard, vanila pixel for begineers and advanced users users only.
-*LisaDesktop JWM Edition:** A standard, jwm customized for begineers and advanced users users only.
 **LisaDesktop Trinity Edition:** A standard, vanila trinity for begineers and advanced users users only.
 **LisaDesktop Kodi Edition:** A standard, Kodi Desktop With LightDM for begineers and advanced users users only.
 
