@@ -20,7 +20,7 @@ Main download page: [SourceForge](https://sourceforge.net/projects/lisadesktop)
 * * **LisaDesktop LXQT Edition:** A standard, LXQT customized for Begineers and smart users.
 * * **LisaDesktop LXDE Edition:** A standard, LXDE customized for Begineers and smart users.
 * * **LisaDesktop KDE Edition:** A standard, KDE customized for Begineers and smart users.
-* * **LisaDesktop KDE Edition:** A standard, KDE customized for Begineers and smart users.
+* * **LisaDesktop labwc Edition:** A standard, lawc customized for Begineers and smart users.
 * * **LisaDesktop GXDE Edition:** A standard, GXDE customized for Begineers and smart users And Chinese users.
 * * **LisaDesktop i3 Edition:** A standard, i3 customized for advanced users only.
 * * **LisaDesktop IceWM Edition:** A standard IceWM Vanila For Advanced users only. 
@@ -30,6 +30,7 @@ Main download page: [SourceForge](https://sourceforge.net/projects/lisadesktop)
 * * **LisaDesktop Pixel Edition:** A standard, vanila pixel for begineers and advanced users users only.
 * * **LisaDesktop Trinity Edition:** A standard, vanila trinity for begineers and advanced users users only.
 * * **LisaDesktop Kodi Edition:** A standard, Kodi Desktop With LightDM for begineers and advanced users users only.
+* * **LisaDesktop Mango Edition:** A standard, Mango Desktop With LightDM for begineers and advanced users users only.
 
    
 ## Alternative Distributions (Non-GNOME Options)
