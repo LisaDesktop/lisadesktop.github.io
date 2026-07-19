@@ -1,14 +1,13 @@
 [Home](readme.html) | [Download](download.html) | [About](about.html)
 
 # Download Page
-# LisaDesktop GitHub Documentation
+LisaDesktop GitHub Documentation
 
-## Main Download Page
-* SourceForge: [sourceforge.net/projects/lisadesktop/files]
+Main download page: [SourceForge](https://sourceforge.net/projects/lisadesktop)
 
 ## Support & Community
-* Wiki: [github.com/lisadesktop/lisadesktop-wiki/]
-* Forum: [lisadesktop.forumotion.com]
+* Wiki: [GitHub Wiki](https://github.com/lisadesktop/lisadesktop-wiki)
+* Forum: [LisaDesktop Forum](https://lisadesktop.forumotion.com)
 
 ## Available Editions
 * **LisaDesktop Main Edition:** Main edition. Immutable system featuring the "lumpy" package manager (based on alias apt).
@@ -21,6 +20,7 @@
 
 ## Alternative Distributions (Non-GNOME Options)
 * **BartRunner Linux:** Features a KDE desktop.
-* **MaggieLinux:** A lightweight distribution Uing xfce.
+* **MaggieLinux:** A lightweight distribution using Xfce.
 * **HomerLinux:** A distribution that utilizes the OpenBox window manager.
 * **MargeLinux:** A fun, Debian-based distribution utilizing the Lomiri desktop environment.
+  These are not LLM these are Written by Me
