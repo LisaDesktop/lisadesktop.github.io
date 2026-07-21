@@ -14,7 +14,7 @@ Main download page: [SourceForge](https://sourceforge.net/projects/lisadesktop)
 * **LisaDesktop MATE Edition:** Features the MATE desktop environment for users who prefer the classic GNOME 2 experience.
 * **LisaDesktop Xfce Edition:** A lightweight edition built for older computers.
 * **LisaDesktop Cinnamon Edition:** Features the Cinnamon desktop environment.
-* **LisaDesktop Fluxbox Edition:** Built with the Fluxbox window manager for older PCs and advanced users/hackers.
+* **LisaDesktop Fluxbox Edition:** Built with the Fluxbox vanila and customized window manager for older PCs and advanced users/hackers.
 * **Lisa Desktop Regolith Edition:** Features the Regolith desktop environment.
 * **LisaDesktop Awesome Edition:** A standard, awesomewm customized for Begineers and smart users.
 * * **LisaDesktop LXQT Edition:** A standard, LXQT customized for Begineers and smart users.
