@@ -31,6 +31,16 @@ Main download page: [SourceForge](https://sourceforge.net/projects/lisadesktop)
 * * **LisaDesktop Trinity Edition:** A standard, vanila trinity for begineers and advanced users  only.
 * * **LisaDesktop Kodi Edition:** A standard, Kodi Desktop With LightDM for begineers and advanced users only.
 * * **LisaDesktop Mango Edition:** A standard, Mango Desktop With LightDM for begineers and advanced users  only.
+* * **LisaDesktop Sway Edition:** A standard, sway Desktop With LightDM for begineers and advanced users  only.
+* * **LisaDesktop i3 Vanila Edition:** A standard, i3 Desktop With LightDM for advanced users  only.
+ * **LisaDesktop bspwm Edition:** A standard, bspwm Desktop With LightDM for begineers and advanced users  only*  *
+* * **LisaDesktop awesome Edition:** A standard, awesome Desktop With LightDM for begineers and advanced users  only.
+* * **LisaDesktop pekwm Edition:** A standard, pekwm Desktop With LightDM for begineers and advanced users  only.
+* * **LisaDesktop openbox Edition:** A standard, openbox vanila and customized Desktop With LightDM for begineers and advanced users  only.
+* **LisaDesktop lomirl Edition:** A standard, lomirl vanila and customized Desktop With LightDM for begineers and advanced users  only.    
+
+
+   
 
    
 ## Alternative Distributions (Non-GNOME Options)
